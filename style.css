@@ -1,0 +1,15 @@
+.list {
+    color:red;
+}
+
+h1 {
+    background-color: blue;    
+    width: 300px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+body {
+    background-color: lightgoldenrodyellow;
+}
